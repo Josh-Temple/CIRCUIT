@@ -1,0 +1,20 @@
+{
+  "name": "CIRCUIT - Rapid Arithmetic",
+  "short_name": "CIRCUIT",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FCFBF7",
+  "theme_color": "#FA8072",
+  "icons": [
+    {
+      "src": "https://fonts.gstatic.com/s/i/materialicons/calculate/v16/24px.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://fonts.gstatic.com/s/i/materialicons/calculate/v16/24px.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "CIRCUIT - Rapid Arithmetic",
+  "short_name": "CIRCUIT",
+  "description": "A rapid arithmetic training app with installable offline-friendly support.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF0E6",
+  "theme_color": "#FA8072",
+  "icons": [
+    {
+      "src": "/icons/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

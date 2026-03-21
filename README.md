@@ -19,6 +19,23 @@ View your app in AI Studio: https://ai.studio/apps/drive/1_oNg3uQmr9Pq_XzfOHf6Kd
 3. Run the app:
    `npm run dev`
 
+## PWA support
+
+This app now ships as a Progressive Web App (PWA).
+
+- Installable on supported browsers via the web app manifest.
+- Offline-friendly for the app shell and previously fetched same-origin assets via the service worker.
+- Uses source-controlled SVG app icon assets located in `public/icons/` (no binary icon files in the PR).
+
+To verify locally:
+
+1. Run `npm run build`
+2. Run `npm run preview`
+3. Open the app in Chrome/Edge and confirm:
+   - the install prompt is available,
+   - Application → Manifest is valid,
+   - Application → Service Workers shows `/sw.js` as active.
+
 ## Deploy to Vercel
 
 This app can be deployed to Vercel without any UI/design changes.
@@ -29,4 +46,3 @@ This app can be deployed to Vercel without any UI/design changes.
 4. Deploy.
 
 Vercel will run `npm install` and `npm run build`, and serve the generated `dist` output.
-

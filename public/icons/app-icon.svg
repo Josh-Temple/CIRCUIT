@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">CIRCUIT app icon</title>
+  <desc id="desc">A linen square containing a coral ring shaped like the letter C with a dark diagonal bolt through the middle.</desc>
+  <rect width="512" height="512" rx="120" fill="#FAF0E6" />
+  <path
+    d="M256 92c-90.575 0-164 73.425-164 164s73.425 164 164 164c58.828 0 110.421-30.955 139.404-77.446l-53.992-33.67C322.023 339.943 291.545 358 256 358c-56.333 0-102-45.667-102-102s45.667-102 102-102c35.545 0 66.023 18.057 85.412 49.116l53.992-33.67C366.421 122.955 314.828 92 256 92Z"
+    fill="#FA8072"
+  />
+  <path
+    d="M294.708 132 195 279.54h58.046L217.292 380 317 232.46h-58.046L294.708 132Z"
+    fill="#4A3833"
+  />
+  <path
+    d="M280.799 162 228 241.06h34.588L231.201 350 284 270.94h-34.588L280.799 162Z"
+    fill="#FFFFFF"
+    opacity="0.96"
+  />
+</svg>
